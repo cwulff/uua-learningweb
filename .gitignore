@@ -1,0 +1,8 @@
+node_modules
+vendor
+bower.json
+gulpfile.js
+package-lock.json
+package.json
+README.md
+screenshot.png
